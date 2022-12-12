@@ -1,0 +1,29 @@
+[ID:PC1001_resourcePlants]
+[NUMERIC_VERSION:0101]
+[DISPLAYED_VERSION:1.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
+[AUTHOR:papercrane1001]
+[NAME:1001's Resource Plants]
+[DESCRIPTION:Plants that can be processed to grow resources!  Currently implemented:
+Iron Rot (10 plants : 1 magnetite ore)
+Obsidian Pearlflowers (5:1)
+Marble Lilies (2:1)
+Fibercorn (1:1) (Heavily inspired by a Rimworld mod including a plant called Fibercorn)
+Diamond Buds (50:1)
+Coaldust Mold (8:1)
+]
+
+
+[STEAM_TITLE:1001's Resource Plants]
+[STEAM_DESCRIPTION:Plants that can be processed to grow resources!  Currently implemented:
+Iron Rot (10 plants : 1 magnetite ore)
+Obsidian Pearlflowers (5:1)
+Marble Lilies (2:1)
+Fibercorn (1:1) (Heavily inspired by a Rimworld mod including a plant called Fibercorn)
+Diamond Buds (50:1)
+Coaldust Mold (8:1)]
+[STEAM_TAG:mod]
+[STEAM_KEY_VALUE_TAG:test:stuff]
+[STEAM_METADATA:metadata test]
+[STEAM_CHANGELOG:Init]

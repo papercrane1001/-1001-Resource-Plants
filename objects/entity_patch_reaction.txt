@@ -1,5 +1,3 @@
 entity_patch_stoneworking
 
 [OBJECT:ENTITY]
-
-[SELECT_ENTITY:MOUNTAIN]

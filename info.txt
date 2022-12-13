@@ -14,6 +14,12 @@ Diamond Buds (25:1)
 Coaldust Mold (4:1)
 
 Recipes to make the plants into resources are found in the farmer's workshop.
+
+Like my mod? Donate at:
+https://ko-fi.com/papercrane1001
+
+I use the MIT license: https://opensource.org/licenses/MIT
+which mostly says that if you use my code, please give me credit.
 ]
 
 
@@ -27,6 +33,12 @@ Diamond Buds (25:1)
 Coaldust Mold (4:1)
 
 Recipes to make the plants into resources are found in the farmer's workshop.
+
+Like my mod? Donate at:
+https://ko-fi.com/papercrane1001
+
+I use the MIT license: https://opensource.org/licenses/MIT
+which mostly says that if you use my code, please give me credit.
 ]
 [STEAM_TAG:mod]
 [STEAM_KEY_VALUE_TAG:test:stuff]

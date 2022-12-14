@@ -11,7 +11,7 @@ Obsidian Pearlflowers (8:1)
 Marble Lilies (2:1)
 Fibercorn (1:1) (Heavily inspired by a Rimworld mod including a plant called Fibercorn)
 Diamond Buds (25:1)
-Coaldust Mold (4:1)
+Coaldust Mold (1:4)
 
 Recipes to make the plants into resources are found in the farmer's workshop.
 
@@ -30,7 +30,7 @@ Obsidian Pearlflowers (8:1)
 Marble Lilies (2:1)
 Fibercorn (1:1) (Heavily inspired by a Rimworld mod including a plant called Fibercorn)
 Diamond Buds (25:1)
-Coaldust Mold (4:1)
+Coaldust Mold (1:4)
 
 Recipes to make the plants into resources are found in the farmer's workshop.
 
@@ -43,6 +43,6 @@ which mostly says that if you use my code, please give me credit.
 [STEAM_TAG:mod]
 [STEAM_KEY_VALUE_TAG:test:stuff]
 [STEAM_METADATA:metadata test]
-[STEAM_CHANGELOG:Corrections]
+[STEAM_CHANGELOG:Clarity, corrected coal]
 
-[STEAM_FILE_ID:2901846665]
+[STEAM_FILE_ID:2901499338]

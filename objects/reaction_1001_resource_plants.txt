@@ -117,7 +117,7 @@ reactions_1001_reactions
 [SKILL:PROCESSPLANTS]
 
 [REACTION:ADAM_X_2]
-[NAME:get more seeds from coaldust mold]
+[NAME:get more seeds from adam]
 [BUILDING:FARMER:NONE]
 [REAGENT:A:1:PLANT:NONE:PLANT_MAT:ADAM:ADAM]
 [PRODUCT:100:2:SEEDS:NONE:PLANT_MAT:ADAM:SEED]

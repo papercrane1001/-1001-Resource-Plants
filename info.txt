@@ -1,16 +1,16 @@
 [ID:PC1001_resourcePlants]
-[NUMERIC_VERSION:0103]
-[DISPLAYED_VERSION:1.03]
+[NUMERIC_VERSION:0104]
+[DISPLAYED_VERSION:1.04]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:papercrane1001]
 [NAME:1001's Resource Plants]
 [DESCRIPTION:Plants that can be processed to grow resources!  Currently implemented:
-Iron Rot (5 plants : 1 magnetite ore)
-Obsidian Pearlflowers (8:1)
-Marble Lilies (2:1)
+Iron Rot (1 plants : 1 magnetite ore)
+Obsidian Pearlflowers (1:1)
+Marble Lilies (1:1)
 Fibercorn (1:1) (Heavily inspired by a Rimworld mod including a plant called Fibercorn)
-Diamond Buds (25:1)
+Diamond Buds (1:1)
 Coaldust Mold (1:4)
 
 Recipes to make the plants into resources are found in the farmer's workshop.
@@ -25,11 +25,11 @@ which mostly says that if you use my code, please give me credit.
 
 [STEAM_TITLE:1001's Resource Plants]
 [STEAM_DESCRIPTION:Plants that can be processed to grow resources!  Currently implemented:
-Iron Rot (5 plants : 1 magnetite ore)
-Obsidian Pearlflowers (8:1)
-Marble Lilies (2:1)
+Iron Rot (1 plants : 1 magnetite ore)
+Obsidian Pearlflowers (1:1)
+Marble Lilies (1:1)
 Fibercorn (1:1) (Heavily inspired by a Rimworld mod including a plant called Fibercorn)
-Diamond Buds (25:1)
+Diamond Buds (1:1)
 Coaldust Mold (1:4)
 
 Recipes to make the plants into resources are found in the farmer's workshop.
@@ -43,6 +43,6 @@ which mostly says that if you use my code, please give me credit.
 [STEAM_TAG:mod]
 [STEAM_KEY_VALUE_TAG:test:stuff]
 [STEAM_METADATA:metadata test]
-[STEAM_CHANGELOG:Clarity, corrected coal]
+[STEAM_CHANGELOG:Balance and Playability]
 
 [STEAM_FILE_ID:2901499338]

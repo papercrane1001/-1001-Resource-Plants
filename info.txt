@@ -1,11 +1,11 @@
 [ID:PC1001_resourcePlants]
-[NUMERIC_VERSION:0104]
-[DISPLAYED_VERSION:1.04]
+[NUMERIC_VERSION:0105]
+[DISPLAYED_VERSION:1.05]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:papercrane1001]
 [NAME:1001's Resource Plants]
-[DESCRIPTION:Plants that can be processed to grow resources!  Currently implemented:
+[DESCRIPTION:Plants that can be processed to grow resources!  Currently implemented
 Iron Rot (1 plants : 1 magnetite ore)
 Obsidian Pearlflowers (1:1)
 Marble Lilies (1:1)
@@ -24,7 +24,7 @@ which mostly says that if you use my code, please give me credit.
 
 
 [STEAM_TITLE:1001's Resource Plants]
-[STEAM_DESCRIPTION:Plants that can be processed to grow resources!  Currently implemented:
+[STEAM_DESCRIPTION:Plants that can be processed to grow resources!  Currently implemented
 Iron Rot (1 plants : 1 magnetite ore)
 Obsidian Pearlflowers (1:1)
 Marble Lilies (1:1)
@@ -43,6 +43,6 @@ which mostly says that if you use my code, please give me credit.
 [STEAM_TAG:mod]
 [STEAM_KEY_VALUE_TAG:test:stuff]
 [STEAM_METADATA:metadata test]
-[STEAM_CHANGELOG:Balance and Playability]
+[STEAM_CHANGELOG:Fixing Adamantium]
 
 [STEAM_FILE_ID:2901499338]

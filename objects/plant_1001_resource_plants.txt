@@ -96,6 +96,7 @@ plant_1001_resource_plants
 	[SHRUB_COLOR:5:0:0]
 	[DEAD_SHRUB_COLOR:0:0:1]
 	
+	
 [PLANT:FIBERCORN]
 	[NAME:fibercorn][NAME_PLURAL:fibercorn][ADJ:fibercorn]
 	[USE_MATERIAL_TEMPLATE:STRUCTURAL:STRUCTURAL_PLANT_TEMPLATE]
@@ -136,7 +137,7 @@ plant_1001_resource_plants
 		[MATERIAL_VALUE:1]
 		[EDIBLE_VERMIN]
 		[EDIBLE_COOKED]
-	[SEED:marble lily seed:marble lily seeds:4:0:1:LOCAL_PLANT_MAT:SEED]
+	[SEED:marble lily seed:diamond bud seeds:4:0:1:LOCAL_PLANT_MAT:SEED]
 	[SPRING][SUMMER][AUTUMN][WINTER]
 	[FREQUENCY:100]
 	[CLUSTERSIZE:5]

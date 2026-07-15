@@ -1,6 +1,6 @@
 [ID:PC1001_resourcePlants]
-[NUMERIC_VERSION:0105]
-[DISPLAYED_VERSION:1.05]
+[NUMERIC_VERSION:0106]
+[DISPLAYED_VERSION:1.06]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
 [AUTHOR:papercrane1001]
@@ -8,10 +8,12 @@
 [DESCRIPTION:Plants that can be processed to grow resources!  Currently implemented
 Iron Rot (1 plants : 1 magnetite ore)
 Obsidian Pearlflowers (1:1)
-Marble Lilies (1:1)
+Marble Lilies (1:~3)
 Fibercorn (1:1) (Heavily inspired by a Rimworld mod including a plant called Fibercorn)
-Diamond Buds (1:1)
+Diamond Buds (1:2)
 Coaldust Mold (1:4)
+Kaolinite Dust
+Rock Crystal Mold
 
 Recipes to make the plants into resources are found in the farmer's workshop.
 
@@ -31,6 +33,8 @@ Marble Lilies (1:1)
 Fibercorn (1:1) (Heavily inspired by a Rimworld mod including a plant called Fibercorn)
 Diamond Buds (1:1)
 Coaldust Mold (1:4)
+Kaolinite Dust
+Rock Crystal Mold
 
 Recipes to make the plants into resources are found in the farmer's workshop.
 
@@ -43,6 +47,6 @@ which mostly says that if you use my code, please give me credit.
 [STEAM_TAG:mod]
 [STEAM_KEY_VALUE_TAG:test:stuff]
 [STEAM_METADATA:metadata test]
-[STEAM_CHANGELOG:Fixing Adamantium]
+[STEAM_CHANGELOG:Fixing diamond, clearing bloat, adding kaolinite and rock crystal]
 
 [STEAM_FILE_ID:2901499338]
